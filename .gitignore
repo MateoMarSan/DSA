@@ -1,0 +1,16 @@
+# NetBeans build output
+/build/
+/dist/
+
+# NetBeans private files
+/nbproject/private/
+
+# NetBeans temporary build folders
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Compiled Java files
+*.class
+
+/manifest.mf
